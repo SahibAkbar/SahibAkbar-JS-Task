@@ -1,0 +1,1 @@
+document.getElementById("myTask").style.fontSize = "50px"
